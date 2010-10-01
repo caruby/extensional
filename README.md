@@ -71,6 +71,6 @@ Changelog
 Copyright
 ---------
 
-extensional &copy; 2010 by [OHSU](mailto:loneyf@ohsu.edu).
-extensional is licensed under the MIT license. Please see the {file:LICENSE} and {file:LEGAL}
-documents for more information.
+extensional &copy; 2010 by [Oregon Health & Sciences University](mailto:loneyf@ohsu.edu).
+extensional is licensed under the MIT license. Please see the LICENSE and LEGAL
+files for more information.
