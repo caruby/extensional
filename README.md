@@ -18,20 +18,20 @@ An optional callback block enables associative access to instances by key.
 Feature List
 ------------
 
-1. Add instances to a Class extent
+1. Add instances to a Class extent.
 
-2. Associative access by a designated key
+2. Associative access by a designated key.
 
-3. Custom unit definition
+3. Custom unit definition.
 
-4. Measurement parser
+4. Measurement parser.
 
 Installing
 ----------
 
-To install UOM, use the following command:
+To install the extensional gem, use the following command:
 
-    $ gem install caruby-uom
+    $ gem install extensional
 
 (Add `sudo` if you're installing under a POSIX system as root)
 
@@ -71,6 +71,6 @@ Changelog
 Copyright
 ---------
 
-UOM &copy; 2010 by [OHSU](mailto:loneyf@ohsu.edu).
-UOM is licensed under the MIT license. Please see the {file:LICENSE} and {file:LEGAL}
+extensional &copy; 2010 by [OHSU](mailto:loneyf@ohsu.edu).
+extensional is licensed under the MIT license. Please see the {file:LICENSE} and {file:LEGAL}
 documents for more information.
