@@ -15,5 +15,5 @@ end
 
 desc "Installs the gem"
 task :install => :gem do
-  sh "#{SUDO} gem install caruby-extensional-#{Extensional::VERSION}.gem --no-rdoc --no-ri"
+  sh "#{SUDO} gem install extensional-#{Extensional::VERSION}.gem --no-rdoc --no-ri"
 end

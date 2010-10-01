@@ -1,6 +1,7 @@
 require 'extensional'
+
 SPEC = Gem::Specification.new do |s|
-  s.name          = "caruby-extensional"
+  s.name          = "extensional"
   s.summary       = "Collects Class instances." 
   s.description   = <<-eof
     The extensional gem adds the ability of a Class to collect its instances.
@@ -14,7 +15,7 @@ SPEC = Gem::Specification.new do |s|
   s.email         = "loneyf@ohsu.edu"
   s.homepage      = "http://github.com/caruby/extensional/"
   s.platform      = Gem::Platform::RUBY
-  s.files         = Dir.glob("{lib,test}/**/*") + ['LEGAL', 'LICENSE', 'README.md']
+  s.files         = Dir.glob("{lib,test}/**/*") + ['History.txt', 'LEGAL', 'LICENSE', 'README.md']
   s.require_paths = ['lib']
   s.has_rdoc      = 'extensional'
   s.rubyforge_project = 'caruby'
