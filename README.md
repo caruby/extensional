@@ -5,7 +5,7 @@ extensional: Class extent collector
 **Author**:       OHSU Knight Cancer Institute    
 **Copyright**:    2010    
 **License**:      MIT License    
-**Latest Version**: 2010.1    
+**Latest Version**: 1.3.1    
 **Release Date**: September 30th 2010    
 
 Synopsis

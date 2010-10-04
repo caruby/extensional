@@ -8,7 +8,7 @@ module Extensional
   include Enumerable
 
   # This Extensional implementation version.
-  VERSION = '2010.1'
+  VERSION = '1.3.1'
 
   # Returns this Extensional class's Extent.
   def extent
